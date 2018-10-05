@@ -9,4 +9,4 @@ Run : -
 
 Start XAMPP
 
-Use the address "localhost/CSRF-Double-Submit-Cookie-Pattern" to open the project in the browser.
+Use the address "localhost/CSRF-Double-Submit-Cookie-Pattern" to open the project in the browser
